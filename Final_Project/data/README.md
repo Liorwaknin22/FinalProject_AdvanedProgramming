@@ -2,6 +2,10 @@
 ================
 Team 18
 
+Instructions for replicating our analysis:
+
+Place your path to the data in the marked place in the code. Then you can run all chunks and see all the results of our analysis
+
 This Markdown file describes the data folder structure and organization ...
 
 A detailed explanation of the data columns:
